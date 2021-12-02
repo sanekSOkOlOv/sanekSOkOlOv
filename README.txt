@@ -1,3 +1,0 @@
-TASK
-Using the Abstract Factory Pattern
-For example, superheroes and their attributes (weapons, behavior model).
