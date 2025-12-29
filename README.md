@@ -1,9 +1,9 @@
 
-<h2 align="left">Hi 👋! My name is Oleksadr and I'm Full Stack Engineer, from Ukraine.</h2>
+<h2 align="left">Hi 👋! My name is Aleksadr and I'm Full Stack Engineer, from Ukraine.</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
