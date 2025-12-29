@@ -43,6 +43,8 @@
 # 📊 GitHub Stats:
   ![](https://github-readme-stats-trent.vercel.app/api?username=sanekSOkOlOv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanekSOkOlOv&theme=github-dark&include_all_commits=true&count_private=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanekSOkOlOv&count_private=true)
+
 
  
   
