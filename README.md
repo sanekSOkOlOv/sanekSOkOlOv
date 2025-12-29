@@ -41,13 +41,7 @@
 ###
 
 # 📊 GitHub Stats:
- ![](https://github-readme-stats-trent.vercel.app/api?username=sanekSOkOlOv
-&theme=github_dark
-&hide_border=true
-&count_private=true
-&include_all_commits=true
-&hide=issues
-&custom_title=GitHub%20Activity)
+ ![](https://github-readme-stats-trent.vercel.app/api?username=sanekSOkOlOv&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub%20Activity)
 
 
 
