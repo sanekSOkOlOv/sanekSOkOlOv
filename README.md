@@ -41,13 +41,7 @@
 ###
 
 # 📊 GitHub Stats:
+<div align="center">
  ![](https://github-readme-stats-trent.vercel.app/api?username=sanekSOkOlOv&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub%20Activity)
-
-
-
-
- 
-  
-  ---
-  [![](https://visitcount.itsvg.in/api?id=sanekSOkOlOv&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
