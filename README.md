@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats-trent.vercel.app/api?username=sanekSOkOlOv&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-trent.vercel.app/api/top-langs/?username=sanekSOkOlOv&hide=javascript&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-trent.vercel.app/api/top-langs/?username=sanekSOkOlOv&hide=javascript,html&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 
