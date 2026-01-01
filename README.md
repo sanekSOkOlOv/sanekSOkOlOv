@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Aleksadr and I'm Full Stack Engineer, from Ukraine.</h2>
+<h2 align="left">Hi 👋! My name is Oleksadr and I'm Full Stack Engineer, from Ukraine.</h2>
 
 ###
 
