@@ -1,5 +1,4 @@
-
-<h2 align="left">Hi 👋! My name is Oleksandr and I'm Full Stack Engineer, from Ukraine.</h2>
+<h2 align="left">Hi 👋! My name is Oleksandr and I'm a Full Stack Engineer from Ukraine.</h2>
 
 ###
 
@@ -16,11 +15,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanekSOkOlOv&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanekSOkOlOv&theme=github_dark&hide_border=true&include_all_commits=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanekSOkOlOv&hide=javascript,html,css,scss&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanekSOkOlOv&hide=javascript,html,css,scss&theme=github_dark&hide_border=true&include_all_commits=true" />
 </p>
-
 
 
